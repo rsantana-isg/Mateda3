@@ -1,17 +1,17 @@
 
-#Matlab toolbox for Estimation of Distribution Algorithms  (MATEDA-3.0)#
+# Matlab toolbox for Estimation of Distribution Algorithms  (MATEDA-3.0) #
 
 
 For a preliminary explanation of Mateda see the file Mateda2.0-UserGuide.pdf in this directory.
 
 ## Documentation ##
 General documentation about the programs is available in the /doc directory or from:
-[http://www.sc.ehu.es/ccwbayes/members/rsantana/software/matlab/MATEDA.html]
+[ http://www.sc.ehu.es/ccwbayes/members/rsantana/software/matlab/MATEDA.html ]
 
-MATEDA3.0 employs the Matlab Bayes Net (BNT) toolbox (Murphy:2001) and the pmtk3-master library ([https://github.com/probml/pmtk3]) which have been included within the Mateda3 repository 
+MATEDA3.0 employs the Matlab Bayes Net (BNT) toolbox (Murphy:2001) and the pmtk3-master library ([ https://github.com/probml/pmtk3 ]) which have been included within the Mateda3 repository 
 
 
-##Installation##
+## Installation ##
 
  1. Edit file InitEnvironment.m updating the path path_MATEDA
   
@@ -23,7 +23,7 @@ MATEDA3.0 employs the Matlab Bayes Net (BNT) toolbox (Murphy:2001) and the pmtk3
 The folder ScriptsMateda contains several  examples of EDAs implementations. The file Mateda2.0-UserGuide.pdf contains a detailed explanation of how to use the programs. 
 
 
-###Citations###
+### Citations ###
 
 Santana, Roberto, Concha Bielza, Pedro Larranaga, Jose A. Lozano, Carlos Echegoyen, Alexander Mendiburu, Rubén Armananzas, and Siddartha Shakya. "Mateda-2.0: Estimation of distribution algorithms in MATLAB." Journal of Statistical Software 35, no. 7 (2010): 1-30.
 

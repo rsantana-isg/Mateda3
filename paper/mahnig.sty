@@ -1,0 +1,87 @@
+%\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{amsthm}
+%\usepackage{xspace}
+%\usepackage{fancybox}
+%\usepackage{ifthen}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{pstricks,pst-node}
+%\usepackage{amssymb}
+%\usepackage{chess,bdfchess}
+
+\newtheorem{counterexample}{Counterexample}
+\newtheorem{quest}{Question}
+\newtheorem{keyquestion}{Key question}
+\newtheorem{openproblem}{Open problem}
+
+%\newtheorem{theorem}{Theorem}
+%\newtheorem{corollary}[theorem]{Corollary}
+%\newtheorem{lemma}[theorem]{Lemma}
+%\newtheorem{definition}[theorem]{Definition}
+
+\newenvironment{Algo}[2][0]{%
+  \begin{center}\begin{minipage}{0.9\textwidth}%
+    \centerline{\textbf{\large {#2}}}\vspace{-1ex}%
+    \centerline{\rule{0.93\textwidth}{0.5pt}}%
+    \begin{list}{}{\setlength{\itemsep}{1.5ex plus 0ex minus 1ex}\setlength{\parsep}{0pt}%
+        \setlength{\topsep}{0pt}\setlength{\parskip}{0pt}\setlength{\partopsep}{0pt}%
+        \setlength{\leftmargin}{\labelwidth}\addtolength{\leftmargin}{4\labelsep} %
+        \setlength{\rightmargin}{3\labelsep}%
+        \setcounter{AlgoStepCnt}{#1}%
+        \renewcommand{\makelabel}{%
+          \textbf{\AlgoStep{\arabic{AlgoStepCnt}}:~}\refstepcounter{AlgoStepCnt}}
+        } }%
+    {\end{list}\centerline{\rule[1ex]{0.93\textwidth}{0.5pt}}%
+  \end{minipage}\end{center}}
+
+
+\newlength{\TTL}
+\newlength{\TMPL}
+   
+\newcommand*{\Let}[2]{\ensuremath{#1\Leftarrow#2}}
+\newcommand*{\AlgoStep}[1]{Step {#1}}
+\newcounter{AlgoStepCnt}
+\newcounter{algo}
+\makeatletter
+\newenvironment{BAlgo}[2][1]{%
+%  \newcommand*{\Let}[2]{##1\Leftarrow##2}
+  \newcommand*{\For}[2]{\textbf{for} $##1$ \textbf{to} $##2$}
+  \newcommand*{\If}{\textbf{if }}
+  \newcommand*{\Else}{\textbf{else}\xspace}
+  \newcommand*{\End}{\} }
+  \newcommand*{\Do}{\textbf{do} \{ }
+  \newcommand*{\Return}{\textbf{return}\xspace}
+  \newcommand*{\Until}[1]{\} \textbf{until} ##1}
+  \newcommand*{\While}[1]{\} \textbf{while} ##1}
+  \newcommand*{\WhileDo}[1]{\textbf{while} ##1 \Do}
+  \newcommand*{\T}[1]{\rule{3ex}{0pt}\setlength{\TMPL}{\TTL}\addtolength{\TMPL}{
+-3ex}\parbox[t]{\TMPL}{\setlength{\baselineskip}{0pt}{##1}}}
+  \newcommand*{\TT}[1]{\rule{6ex}{0pt}\setlength{\TMPL}{\TTL}\addtolength{\TMPL}
+{-6ex}\parbox[t]{\TMPL}{\setlength{\baselineskip}{0pt}##1}}
+  \newcommand*{\TTT}[1]{\rule{9ex}{0pt}\setlength{\TMPL}{\TTL}\addtolength{\TMPL
+}{-9ex}\parbox[t]{\TMPL}{\setlength{\baselineskip}{0pt}##1}}
+  %\begin{figure}[htb]
+   \refstepcounter{algo}%
+   % \setlength{\textwidth}{8.6cm}%
+  \begin{minipage}{\textwidth}%
+      \centerline{Algorithm~\thealgo: \textbf{#2}}\vspace{-1ex}%
+       \centerline{\rule{0.93\textwidth}{0.5pt}}%
+      \begin{list}{}{\setlength{\itemsep}{0pt}\setlength{\parsep}{3pt}%
+          \setlength{\topsep}{0pt}\setlength{\parskip}{0pt}\setlength{\partopsep
+}{0pt}%
+          \setlength{\baselineskip}{0pt}%
+          \setlength{\leftmargin}{2em}%
+          \setcounter{AlgoStepCnt}{#1}%
+          \setlength{\rightmargin}{1em}%
+          \setlength{\TTL}{\textwidth}%
+          \addtolength{\TTL}{-3em}                 
+          \renewcommand{\makelabel}{\hfill\textit{\footnotesize{\arabic{AlgoStepCnt}}}\stepcounter{AlgoStepCnt}~}%
+          } }%
+      {\end{list}
+ 
+      \centerline{\rule[1ex]{0.93\textwidth}{0.5pt}}
+      \end{minipage}%\end{figure}
+}
+ 
+

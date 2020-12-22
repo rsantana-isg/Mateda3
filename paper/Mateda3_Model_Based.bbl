@@ -1,0 +1,1247 @@
+\begin{thebibliography}{100}
+
+\bibitem{Aguirre_and_Tanaka:2007}
+H.~E. Aguirre and K.~Tanaka.
+\newblock Working principles, behavior, and performance of {MOEAs} on
+  {MNK}-landscapes.
+\newblock {\em European Journal of Operational Research}, 181(3):1670--1690,
+  2007.
+
+\bibitem{Alden_and_Miikkulainen:2016}
+M.~Alden and R.~Miikkulainen.
+\newblock {MARLEDA}: effective distribution estimation through {M}arkov random
+  fields.
+\newblock {\em Theoretical Computer Science}, 633:4--18, 2016.
+
+\bibitem{Baluja:1994}
+S.~Baluja.
+\newblock Population-based incremental learning: {A} method for integrating
+  genetic search based function optimization and competitive learning.
+\newblock Technical Report CMU-CS-94-163, Carnegie Mellon University,
+  Pittsburgh, PA, 1994.
+
+\bibitem{Baluja:2006}
+S.~Baluja.
+\newblock Incorporating a priori knowledge in probabilistic-model based
+  optimization.
+\newblock In M.~Pelikan, K.~Sastry, and E.~Cant\'u-Paz, editors, {\em Scalable
+  Optimization via Probabilistic Modeling: From Algorithms to Applications},
+  Studies in Computational Intelligence, pages 205--222. Springer, 2006.
+
+\bibitem{Baluja:2017}
+S.~Baluja.
+\newblock Deep learning for explicitly modeling optimization landscapes.
+\newblock {\em CoRR}, abs/1703.07394, 2017.
+
+\bibitem{Beasley_et_al:1993}
+D.~Beasley, D.~R. Bull, and R.~R. Martin.
+\newblock Reducing epistasis in combinatorial problems by expansive coding.
+\newblock In {\em ICGA}, pages 400--407, 1993.
+
+\bibitem{Bengio:2009}
+Y.~Bengio.
+\newblock Learning deep architectures for {AI}.
+\newblock {\em Foundations and trends{\textregistered} in Machine Learning},
+  2(1):1--127, 2009.
+
+\bibitem{Bosman_and_Grahl:2008}
+P.~A. Bosman and J.~Grahl.
+\newblock Matching inductive search bias and problem structure in continuous
+  estimation of distribution algorithms.
+\newblock {\em European Journal of Operational Research}, 185:1246--1264, 2008.
+
+\bibitem{Bosman_and_Thierens:2002}
+P.~A. Bosman and D.~Thierens.
+\newblock Multi-objective optimization with diversity preserving mixture-based
+  iterated density estimation evolutionary algorithms.
+\newblock {\em International Journal of Approximate Reasoning}, 31(3):259--289,
+  2002.
+
+\bibitem{Bosman_and_Thierens:2011}
+P.~A. Bosman and D.~Thierens.
+\newblock The roles of local search, model building and optimal mixing in
+  evolutionary algorithms from a {BBO} perspective.
+\newblock In {\em Proceedings of the 13th annual conference companion on
+  Genetic and evolutionary computation}, pages 663--670. ACM, 2011.
+
+\bibitem{Bosman_and_Thierens:2012}
+P.~A. Bosman and D.~Thierens.
+\newblock Linkage neighbors, optimal mixing and forced improvements in genetic
+  algorithms.
+\newblock In {\em Proceedings of the Genetic and Evolutionary Computation
+  Conference {GECCO}-2012}, pages 585--592. ACM, 2012.
+
+\bibitem{Bosman_and_Thierens:2013}
+P.~A. Bosman and D.~Thierens.
+\newblock More concise and robust linkage learning by filtering and combining
+  linkage hierarchies.
+\newblock In {\em Proceedings of the 15th annual conference on Genetic and
+  evolutionary computation}, pages 359--366. ACM, 2013.
+
+\bibitem{Brookfield:2001}
+J.~Brookfield.
+\newblock Evolution: the evolvability enigma.
+\newblock {\em Current Biology}, 11(3):R106--R108, 2001.
+
+\bibitem{Brownlee_et_al:2015}
+A.~E.~I. Brownlee, J.~A. McCall, and L.~A. Christie.
+\newblock Structural coherence of problem and algorithm: An analysis for {EDAs}
+  on all 2-bit and 3-bit problems.
+\newblock In {\em 2015 IEEE Congress on Evolutionary Computation (CEC)}, pages
+  2066--2073. IEEE, 2015.
+
+\bibitem{Brownlee_et_al:2012a}
+A.~E.~I. Brownlee, J.~A. McCall, and M.~Pelikan.
+\newblock Influence of selection on structure learning in {M}arkov network
+  {EDAs}: {A}n empirical study.
+\newblock In {\em Proceedings of the Genetic and Evolutionary Computation
+  Conference {GECCO}-2012}, pages 249--256. ACM, 2012.
+
+\bibitem{Brownlee_et_al:2009}
+A.~E.~I. Brownlee, J.~A. McCall, S.~K. Shakya, and Q.~Zhang.
+\newblock Structure learning and optimisation in a {M}arkov-network based
+  estimation of distribution algorithm.
+\newblock In {\em Proceedings of the 2009 Congress on Evolutionary Computation
+  CEC-2009}, pages 447--454, Norway, 2009. IEEE Press.
+
+\bibitem{Butz_et_al:2006}
+M.~V. Butz, M.~Pelikan, X.~Llor\'{a}, and D.~E. Goldberg.
+\newblock Automated global structure extraction for effective local building
+  block processing in {XCS}.
+\newblock {\em Evolutionary Computation}, 14(3):345--380, 2006.
+
+\bibitem{Ceberio_et_al:2017}
+J.~Ceberio, A.~Mendiburu, and J.~A. Lozano.
+\newblock A square lattice probability model for optimising the graph
+  partitioning problem.
+\newblock In {\em Proceedings of the 2017 Congress on Evolutionary Computation
+  CEC-2017}, San Sebastian, Spain, 2017. IEEE Press.
+\newblock In press.
+
+\bibitem{Chen_et_al:2012}
+Y.-p. Chen, C.-Y. Chuang, and Y.-W. Huang.
+\newblock Inductive linkage identification on building blocks of different
+  sizes and types.
+\newblock {\em International Journal of Systems Science}, 43(12):2202--2213,
+  2012.
+
+\bibitem{Chicano_et_2014}
+F.~Chicano, D.~Whitley, and A.~M. Sutton.
+\newblock Efficient identification of improving moves in a ball for
+  pseudo-{B}oolean problems.
+\newblock In {\em Proceedings of the 2014 conference on Genetic and
+  evolutionary computation}, pages 437--444. ACM, 2014.
+
+\bibitem{Chicano_et_al:2016}
+F.~Chicano, D.~Whitley, and R.~Tin{\'o}s.
+\newblock Efficient hill climber for constrained {pseudo-Boolean} optimization
+  problems.
+\newblock In {\em Proceedings of the 2016 on Genetic and Evolutionary
+  Computation Conference}, pages 309--316. ACM, 2016.
+
+\bibitem{Chicano_et_al:2016a}
+F.~Chicano, D.~Whitley, and R.~Tin{\'o}s.
+\newblock Efficient hill climber for multi-objective {pseudo-Boolean}
+  optimization.
+\newblock In {\em European Conference on Evolutionary Computation in
+  Combinatorial Optimization}, pages 88--103. Springer, 2016.
+
+\bibitem{Choi_et_al:2007}
+S.~Choi, Y.~Kwon, and B.~Moon.
+\newblock Properties of symmetric fitness functions.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 11(6):743--757,
+  2007.
+
+\bibitem{Chuang_and_Chen:2007}
+C.-Y. Chuang and Y.-p. Chen.
+\newblock Linkage identification by perturbation and decision tree induction.
+\newblock In {\em Evolutionary Computation, 2007. CEC 2007. IEEE Congress on},
+  pages 357--363. IEEE, 2007.
+
+\bibitem{Churchill_et_al:2014}
+A.~W. Churchill, S.~Sigtia, and C.~Fernando.
+\newblock A denoising autoencoder that guides stochastic search.
+\newblock {\em CoRR}, abs/1404.1614, 2014.
+
+\bibitem{Churchill_et_al:2016}
+A.~W. Churchill, S.~Sigtia, and C.~Fernando.
+\newblock Learning to generate genotypes with neural networks.
+\newblock {\em CoRR}, abs/1604.04153, 2016.
+
+\bibitem{Ciresan_et_al:2011}
+D.~C. Ciresan, U.~Meier, J.~Masci, L.~Maria~Gambardella, and J.~Schmidhuber.
+\newblock Flexible, high performance convolutional neural networks for image
+  classification.
+\newblock In {\em IJCAI Proceedings-International Joint Conference on
+  Artificial Intelligence}, volume~22, page 1237. Barcelona, Spain, 2011.
+
+\bibitem{Clearwater_and_Hogg:1994}
+S.~H. Clearwater and T.~Hogg.
+\newblock Exploiting problem structure in genetic algorithms.
+\newblock In {\em Proceedings of the Twelfth AAAI National Conference on
+  Artificial Intelligence}, pages 1310--1315. AAAI Press, 1994.
+
+\bibitem{Costa_and_Minisci:2003}
+M.~Costa and E.~Minisci.
+\newblock {MOPED} a multi-objective {P}arzen-based estimation of distribution
+  algorithm for continuous problems.
+\newblock In {\em Evolutionary Multi-Criterion Optimization: Second
+  International Conference, EMO-2003}, volume 2632 of {\em Lecture Notes in
+  Computer Science}, page~71. Springer Berlin-Heidelberg, 2003.
+
+\bibitem{DeJong:1988}
+K.~De~Jong.
+\newblock Learning with genetic algorithms: An overview.
+\newblock {\em Machine learning}, 3(2-3):121--138, 1988.
+
+\bibitem{Earl_and_Deem:2004}
+D.~J. Earl and M.~W. Deem.
+\newblock Evolvability is a selectable trait.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 101(32):11531--11536, 2004.
+
+\bibitem{Ebner_et_al:2001}
+M.~Ebner, P.~Langguth, J.~Albert, M.~Shackleton, and R.~Shipman.
+\newblock On neutral networks and evolvability.
+\newblock In {\em Evolutionary Computation, 2001. Proceedings of the 2001
+  Congress on}, volume~1, pages 1--8. IEEE, 2001.
+
+\bibitem{Echegoyen_et_al:2012a}
+C.~Echegoyen, A.~Mendiburu, R.~Santana, and J.~A. Lozano.
+\newblock Toward understanding {EDAs} based on {B}ayesian networks through a
+  quantitative analysis.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 16(2):173--189,
+  2012.
+
+\bibitem{Echegoyen_et_al:2013}
+C.~Echegoyen, A.~Mendiburu, R.~Santana, and J.~A. Lozano.
+\newblock On the taxonomy of optimization problems under estimation of
+  distribution algorithms.
+\newblock {\em Evolutionary Computation}, 21(3):471--495, 2013.
+
+\bibitem{Echegoyen_et_al:2011}
+C.~Echegoyen, Q.~Zhang, A.~Mendiburu, R.~Santana, and J.~A. Lozano.
+\newblock On the limits of effectiveness in estimation of distribution
+  algorithms.
+\newblock In {\em Proceedings of the 2011 Congress on Evolutionary Computation
+  CEC-2007}, pages 1573--1580. IEEE Press, 2011.
+
+\bibitem{Etxeberria_and_Larranhaga:1999}
+R.~Etxeberria and P.~Larra{\~{n}}aga.
+\newblock Global optimization using {B}ayesian networks.
+\newblock In A.~Ochoa, M.~R. Soto, and R.~Santana, editors, {\em Proceedings of
+  the {S}econd {S}ymposium on {A}rtificial {I}ntelligence {(CIMAF-99)}}, pages
+  332--339. Editorial Academia. Havana, Cuba, 1999.
+
+\bibitem{Forrest_and_Mitchell:1993}
+S.~Forrest and M.~Mitchell.
+\newblock What makes a problem hard for a genetic algorithm? some anomalous
+  results and their explanation.
+\newblock {\em Machine Learning}, 13(2/3):285--319, 1993.
+
+\bibitem{Gallagher_and_Yuan:2006}
+M.~Gallagher and B.~Yuan.
+\newblock A general-purpose tunable landscape generator.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 10(5):590--603,
+  2006.
+
+\bibitem{Gao_and_Culberson:2005}
+Y.~Gao and J.~C. Culberson.
+\newblock Space complexity of estimation of distribution algorithms.
+\newblock {\em Evolutionary Computation}, 13(1):125--143, 2005.
+
+\bibitem{Goldberg:1989}
+D.~E. Goldberg.
+\newblock {\em {G}enetic {A}lgorithms in {S}earch, {O}ptimization, and
+  {M}achine {L}earning}.
+\newblock Addison-Wesley, Reading, MA, 1989.
+
+\bibitem{Goldberg_et_al:1993}
+D.~E. Goldberg, K.~Deb, and D.~Thierens.
+\newblock Toward a better understanding of mixing in genetic algorithms.
+\newblock {\em Journal of the Society of Instrument and Control Engineers},
+  32(1):10--16, 1993.
+\newblock Also IlliGAL Report No. 92009.
+
+\bibitem{Goldman_and_Punch:2014}
+B.~W. Goldman and W.~F. Punch.
+\newblock Parameter-less population pyramid.
+\newblock In {\em Proceedings of the 2014 Annual Conference on Genetic and
+  Evolutionary Computation}, pages 785--792. ACM, 2014.
+
+\bibitem{Goldman_et_al:2015}
+B.~W. Goldman and W.~F. Punch.
+\newblock Gray-box optimization using the parameter-less population pyramid.
+\newblock In {\em Proceedings of the 2015 on Genetic and Evolutionary
+  Computation Conference}, pages 855--862. ACM, 2015.
+
+\bibitem{Goldman_and_Tauritz:2012}
+B.~W. Goldman and D.~R. Tauritz.
+\newblock Linkage tree genetic algorithms: variants and analysis.
+\newblock In {\em Proceedings of the 14th annual conference on Genetic and
+  evolutionary computation}, pages 625--632. ACM, 2012.
+
+\bibitem{Grahl_et_al:2008}
+J.~Grahl, S.~Minner, and P.~A. Bosman.
+\newblock Learning structure illuminates black boxes--an introduction to
+  estimation of distribution algorithms.
+\newblock In {\em Advances in Metaheuristics for Hard Optimization}, pages
+  365--395. Springer, 2008.
+
+\bibitem{Grahl_et_al:2008a}
+J.~Grahl, S.~Minner, and F.~Rothlauf.
+\newblock Decomposition of dynamic single-product and multi-product lotsizing
+  problems and scalability of {EDAs}.
+\newblock In {\em Advances in Computational Intelligence in Transport,
+  Logistics, and Supply Chain Management}, pages 231--251. Springer, 2008.
+
+\bibitem{Hains_et_al:2013}
+D.~Hains, D.~Whitley, A.~Howe, and W.~Chen.
+\newblock Hyperplane initialized local search for {MAXSAT}.
+\newblock In {\em Proceedings of the 15th annual conference on Genetic and
+  evolutionary computation}, pages 805--812. ACM, 2013.
+
+\bibitem{Harik_and_Goldberg:1996}
+G.~R. Harik and D.~E. Goldberg.
+\newblock Learning linkage.
+\newblock {\em Foundations of {G}enetic {A}lgorithms}, 4:247--262, 1996.
+
+\bibitem{Hastie_et_al:2001}
+T.~Hastie, R.~Tibshirani, and J.~Friedman.
+\newblock {\em The Elements of Statistical Learning. Data Mining, Inference and
+  Prediction}.
+\newblock Springer Series in Statistics. Springer, 2001.
+
+\bibitem{Hauschild_and_Pelikan:2011}
+M.~Hauschild and M.~Pelikan.
+\newblock An introduction and survey of estimation of distribution algorithms.
+\newblock {\em Swarm and evolutionary computation}, 1(3):111--128, 2011.
+
+\bibitem{Hauschild_et_al:2008}
+M.~Hauschild, M.~Pelikan, K.~Sastry, and D.~E. Goldberg.
+\newblock Using previous models to bias structural learning in the hierarchical
+  {BOA}.
+\newblock In {\em Proceedings of the Genetic and Evolutionary Computation
+  Conference {GECCO}-2008}, pages 415--422, New York, NY, USA, 2008. ACM.
+
+\bibitem{Hauschild_et_al:2012}
+M.~W. Hauschild, M.~Pelikan, K.~Sastry, and D.~E. Goldberg.
+\newblock Using previous models to bias structural learning in the hierarchical
+  {BOA}.
+\newblock {\em Evolutionary Computation}, 20(1):135--160, 2012.
+
+\bibitem{Heckendorn:2002}
+R.~B. Heckendorn.
+\newblock Embedded landscapes.
+\newblock {\em Evolutionary Computation}, 10(4):345--369, 2002.
+
+\bibitem{Heggernes:2006}
+P.~Heggernes.
+\newblock Minimal triangulations of graphs: A survey.
+\newblock {\em Discrete Mathematics}, 306(3):297--317, 2006.
+
+\bibitem{Helmi_et_al:2014}
+B.~H. Helmi, A.~T. Rahmani, and M.~Pelikan.
+\newblock A factor graph based genetic algorithm.
+\newblock {\em International Journal of Applied Mathematics and Computer
+  Science}, 24(3):621--633, 2014.
+
+\bibitem{Hernando_et_al:2017}
+L.~Hernando, F.~Daolio, N.~Veerapen, and G.~Ochoa.
+\newblock Local optima networks for the permutation flowshop scheduling
+  problem: makespan vs. total flow time.
+\newblock In {\em Proceedings of the 2017 Congress on Evolutionary Computation
+  CEC-2017}, San Sebastian, Spain, 2017. IEEE Press.
+\newblock In press.
+
+\bibitem{Holland:1975}
+J.~H. Holland.
+\newblock {\em Adaptation in Natural and Artificial Systems: An Introductory
+  Analysis with Applications to Biology, Control, and Artificial Intelligence}.
+\newblock University of Michigan Press, Ann Arbor, MI, 1975.
+
+\bibitem{Hoens:2005}
+R.~H{\"{o}}ns.
+\newblock {\em {{E}stimation of {D}istribution {A}lgorithms and {M}inimum
+  {R}elative {E}ntropy}}.
+\newblock PhD thesis, University of Bonn, Bonn, Germany, 2006.
+
+\bibitem{Hoens:2012}
+R.~H{\"{o}}ns.
+\newblock Using maximum entropy and generalized belief propagation in
+  estimation of distribution algorithms.
+\newblock In S.~Shakya and R.~Santana, editors, {\em Markov Networks in
+  Evolutionary Computation}, pages 175--190. Springer, 2012.
+
+\bibitem{Kaedi_and_Ghasem:2011}
+M.~Kaedi and N.~Ghasem-Aghaee.
+\newblock Biasing {B}ayesian optimization algorithm using case based reasoning.
+\newblock {\em Knowledge-Based Systems}, 24(8):1245--1253, 2011.
+
+\bibitem{Kallel_et_al:2000}
+L.~Kallel, B.~Naudts, and R.~Reeves.
+\newblock Properties of fitness functions and search landscapes.
+\newblock In L.~Kallel, B.~Naudts, and A.~Rogers, editors, {\em Theoretical
+  Aspects of Evolutionary Computing}, pages 177--208. Springer, 2000.
+
+\bibitem{Karshenas_et_al:2014}
+H.~Karshenas, R.~Santana, C.~Bielza, and P.~Larra{\~{n}}aga.
+\newblock Multiobjective estimation of distribution algorithm based on joint
+  modeling of objectives and variables.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 18(4):519--542,
+  2014.
+
+\bibitem{Kashtan_and_Alon:2005}
+N.~Kashtan and U.~Alon.
+\newblock Spontaneous evolution of modularity and network motifs.
+\newblock {\em Proceedings of the National Academy of Sciences (PNAS)},
+  102(39):13773--13778, 2005.
+
+\bibitem{Kerschke_et_al:2015}
+P.~Kerschke, M.~Preuss, S.~Wessing, and H.~Trautmann.
+\newblock Detecting funnel structures by means of exploratory landscape
+  analysis.
+\newblock In {\em Proceedings of the 2015 Annual Conference on Genetic and
+  Evolutionary Computation}, pages 265--272. ACM, 2015.
+
+\bibitem{Kikuchi:1951}
+R.~Kikuchi.
+\newblock A theory of cooperative phenomena.
+\newblock {\em Physical Review}, 81(6):988--1003, 1951.
+
+\bibitem{Kirschner_and_Gerhart:1998}
+M.~Kirschner and J.~Gerhart.
+\newblock Evolvability.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  95(15):8420--8427, 1998.
+
+\bibitem{Koller_and_Friedman:2009}
+D.~Koller and N.~Friedman.
+\newblock {\em Probabilistic Graphical Models: Principles and Techniques}.
+\newblock The MIT Press, 2009.
+
+\bibitem{Kschischang_et_al:2001}
+F.~R. Kschischang, B.~J. Frey, and H.~A. Loeliger.
+\newblock Factor graphs and the sum-product algorithm.
+\newblock {\em IEEE Transactions on Information Theory}, 47(2):498--519, 2001.
+
+\bibitem{Larranhaga_et_al:1999}
+P.~Larra{\~{n}}aga, R.~Etxeberria, J.~A. Lozano, and J.~M. Pe{\~{n}}a.
+\newblock Optimization by learning and simulation of {B}ayesian and {G}aussian
+  networks.
+\newblock Technical Report EHU-KZAA-IK-4/99, Department of Computer Science and
+  Artificial Intelligence, University of the Basque Country, 1999.
+
+\bibitem{Larranaga_et_al:2012}
+P.~Larra{\~{n}}aga, H.~Karshenas, C.~Bielza, and R.~Santana.
+\newblock A review on probabilistic graphical models in evolutionary
+  computation.
+\newblock {\em Journal of Heuristics}, 18(5):795--819, 2012.
+
+\bibitem{Larranhaga_and_Lozano:2002}
+P.~Larra{\~{n}}aga and J.~A. Lozano, editors.
+\newblock {\em {E}stimation of {D}istribution {A}lgorithms. {A} {N}ew {T}ool
+  for {E}volutionary {C}omputation}.
+\newblock Kluwer Academic Publishers, Boston/Dordrecht/London, 2002.
+
+\bibitem{Laumanns_and_Ocenasek:2002}
+M.~Laumanns and J.~Ocenasek.
+\newblock Bayesian optimization algorithm for multi-objective optimization.
+\newblock In J.~J. Merelo, P.~Adamidis, H.~G. Beyer, J.~L.
+  Fern\'andez-Villaca{\~{n}}as, and H.~P. Schwefel, editors, {\em Parallel
+  Problem Solving from Nature - PPSN VII}, volume 2439 of {\em Lecture Notes in
+  Computer Science}, pages 298--307, Granada, Spain, 2002. Springer.
+
+\bibitem{Lehman_and_Miikkulainen:2015}
+J.~Lehman and R.~Miikkulainen.
+\newblock Enhancing divergent search through extinction events.
+\newblock In {\em Proceedings of the 2015 Annual Conference on Genetic and
+  Evolutionary Computation}, pages 951--958. ACM, 2015.
+
+\bibitem{Lehman_and_Stanley:2011}
+J.~Lehman and K.~O. Stanley.
+\newblock Abandoning objectives: Evolution through the search for novelty
+  alone.
+\newblock {\em Evolutionary computation}, 19(2):189--223, 2011.
+
+\bibitem{Lima_et_al:2009}
+C.~F. Lima, M.~Pelikan, F.~G. Lobo, and D.~E. Goldberg.
+\newblock {\em Engineering Stochastic Local Search Algorithms. Designing,
+  Implementing and Analyzing Effective Heuristics}, chapter Loopy Substructural
+  Local Search for the {B}ayesian {O}ptimization {A}lgorithm, pages 61--75.
+\newblock Springer, Berlin Heidelberg, 2009.
+
+\bibitem{Lima_et_al:2006}
+C.~F. Lima, M.~Pelikan, K.~Sastry, M.~V. Butz, D.~E. Goldberg, and F.~G. Lobo.
+\newblock Substructural neighborhoods for local search in the {B}ayesian
+  optimization algorithm.
+\newblock In T.~P. Runarsson, H.-G. Beyer, E.~K. Burke, J.~J.~M. Guerv{\'o}s,
+  L.~D. Whitley, and X.~Yao, editors, {\em Proceedings of the Parallel Problem
+  Solving from Nature Conference (PPSN IX)}, volume 4193 of {\em Lecture Notes
+  in Computer Science}, pages 232--241. Springer, 2006.
+
+\bibitem{Lopez_et_al:2014}
+M.~L{\'o}pez-Ib{\'a}nez, A.~Liefooghe, and S.~Verel.
+\newblock Local optimal sets and bounded archiving on multi-objective
+  {NK}-landscapes with correlated objectives.
+\newblock In {\em Parallel Problem Solving from Nature--PPSN XIII}, pages
+  621--630. Springer, 2014.
+
+\bibitem{Lozada_and_Santana:2011}
+L.~Lozada-Chang and R.~Santana.
+\newblock Univariate marginal distribution algorithm dynamics for a class of
+  parametric functions with unitation constraints.
+\newblock {\em Information Sciences}, 181(11):2340--2355, 2011.
+
+\bibitem{Lozano_et_al:2005}
+J.~A. Lozano, P.~Larra{\~{n}}aga, I.~Inza, and E.~Bengoetxea, editors.
+\newblock {\em Towards a {N}ew {E}volutionary {C}omputation: {A}dvances on
+  {E}stimation of {D}istribution {A}lgorithms}.
+\newblock Springer, 2006.
+
+\bibitem{Luong_et_al:2010}
+H.~N. Luong, H.~T. Nguyen, and C.~W. Ahn.
+\newblock Entropy-based substructural local search for the {B}ayesian
+  optimization algorithm.
+\newblock In {\em Proceedings of the 12th annual conference on Genetic and
+  evolutionary computation}, pages 335--342. ACM, 2010.
+
+\bibitem{Mahnig:2001b}
+T.~Mahnig.
+\newblock {\em Populations basierte Optimierung durch das Lernen von
+  Interaktionen mit {B}ayes'schen Netzen}.
+\newblock PhD thesis, University of Bonn, Sankt Augustin, Germany, 2001.
+\newblock GMD Research Series No. 3/2001.
+
+\bibitem{Maini_et_al:1994}
+H.~Maini, K.~Mehrotra, C.~Mohan, and S.~Ranka.
+\newblock Knowledge-based nonuniform crossover.
+\newblock In {\em Evolutionary Computation, 1994. IEEE World Congress on
+  Computational Intelligence., Proceedings of the First IEEE Conference on},
+  pages 22--27. IEEE, 1994.
+
+\bibitem{Manderick_et_al:1991}
+B.~Manderick, M.~de~Weger, and P.~Spiessens.
+\newblock The genetic algorithm and the structure of the fitness landscape.
+\newblock In {\em Proceedings of the fourth international conference on genetic
+  algorithms}, pages 143--150. San Mateo, CA: Morgan Kauffman, 1991.
+
+\bibitem{Marti_et_al:2010}
+L.~Marti, J.~Garcia, A.~Berlanga, C.~A. Coello, and J.~M. Molina.
+\newblock On current model-building methods for multi-objective estimation of
+  distribution algorithms: Shortcommings and directions for improvement.
+\newblock Technical Report GIAA2010E001, Department of Informatics of the
+  Universidad Carlos III de Madrid, Madrid, Spain, 2010.
+
+\bibitem{Marti_et_al:2008}
+L.~Marti, J.~Garc\'ia, A.~Berlanga, and J.~M. Molina.
+\newblock Introducing {MONEDA}: scalable multiobjective optimization with a
+  neural estimation of distribution algorithm.
+\newblock In {\em Proceedings of the 10th annual conference on Genetic and
+  evolutionary computation {GECCO}-2008}, pages 689--696, New York, NY, USA,
+  2008. ACM.
+
+\bibitem{Martins_et_al:2016}
+M.~S. Martins, M.~R. Delgado, R.~Santana, R.~L{\"u}ders, R.~A. Gon{\c{c}}alves,
+  and C.~P.~d. Almeida.
+\newblock {HMOBEDA}: Hybrid multi-objective {B}ayesian estimation of
+  distribution algorithm.
+\newblock In {\em Proceedings of the 2016 on Genetic and Evolutionary
+  Computation Conference}, pages 357--364. ACM, 2016.
+
+\bibitem{Mendiburu_et_al:2007a}
+A.~Mendiburu, R.~Santana, and J.~A. Lozano.
+\newblock Introducing belief propagation in estimation of distribution
+  algorithms: A parallel framework.
+\newblock Technical Report EHU-KAT-IK-11/07, Department of Computer Science and
+  Artificial Intelligence, University of the Basque Country, October 2007.
+
+\bibitem{Mendiburu_et_al:2012}
+A.~Mendiburu, R.~Santana, and J.~A. Lozano.
+\newblock Fast fitness improvements in estimation of distribution algorithms
+  using belief propagation.
+\newblock In R.~Santana and S.~Shakya, editors, {\em Markov Networks in
+  Evolutionary Computation}, pages 141--155. Springer, 2012.
+
+\bibitem{Mengistu_et_al:2016}
+H.~Mengistu, J.~Lehman, and J.~Clune.
+\newblock Evolvability search: directly selecting for evolvability in order to
+  study and produce it.
+\newblock In {\em Proceedings of the 2016 on Genetic and Evolutionary
+  Computation Conference}, pages 141--148. ACM, 2016.
+
+\bibitem{Mishra_and_Gallagher:2012}
+K.~M. Mishra and M.~Gallagher.
+\newblock Variable screening for reduced dependency modelling in
+  {G}aussian-based continuous estimation of distribution algorithms.
+\newblock In {\em Evolutionary Computation (CEC), 2012 IEEE Congress on}, pages
+  1--8. IEEE, 2012.
+
+\bibitem{Mitchell_et_al:1992a}
+M.~Mitchell, S.~Forrest, and J.~H. Holland.
+\newblock The royal road for genetic algorithms: Fitness landscapes and {GA}
+  performance.
+\newblock In {\em Proceedings of the First European Conference on Artificial
+  Life}, pages 245--254, 1992.
+
+\bibitem{Montavon_et_al:2017}
+G.~Montavon, W.~Samek, and K.-R. M{\"u}ller.
+\newblock Methods for interpreting and understanding deep neural networks.
+\newblock {\em CoRR}, abs/1706.07979, 2017.
+
+\bibitem{Morgan_and_Gallagher:2012}
+R.~Morgan and M.~Gallagher.
+\newblock Using landscape topology to compare continuous metaheuristics: A
+  framework and case study on {EDAs} and ridge structure.
+\newblock {\em Evolutionary computation}, 20(2):277--299, 2012.
+
+\bibitem{Muhlenbein:1997}
+H.~M{\"{u}}hlenbein.
+\newblock The equation for response to selection and its use for prediction.
+\newblock {\em Evolutionary Computation}, 5(3):303--346, 1997.
+
+\bibitem{Muhlenbein:2012}
+H.~M{\"u}hlenbein.
+\newblock Convergence theorems of estimation of distribution algorithms.
+\newblock In S.~Shakya and R.~Santana, editors, {\em Markov Networks in
+  Evolutionary Computation}, pages 91--108. Springer, 2012.
+
+\bibitem{Muhlenbein_and_Hoens:2005}
+H.~M{\"u}hlenbein and R.~H{\"o}ns.
+\newblock Approximate factorizations of distributions and the minimum relative
+  entropy principle.
+\newblock In {\em Proceedings of the 7th annual workshop on Genetic and
+  evolutionary computation}, pages 199--211. ACM, 2005.
+
+\bibitem{Muehlenbein_and_Hoens:2006}
+H.~M{\"u}hlenbein and R.~H{\"{o}}ns.
+\newblock The factorized distributions and the minimum relative entropy
+  principle.
+\newblock In M.~Pelikan, K.~Sastry, and E.~Cant\'u-Paz, editors, {\em Scalable
+  Optimization via Probabilistic Modeling: From Algorithms to Applications},
+  Studies in Computational Intelligence, pages 11--38. Springer, 2006.
+
+\bibitem{Muhlenbein_and_Mahnig:1998}
+H.~M{\"{u}}hlenbein and T.~Mahnig.
+\newblock Convergence theory and applications of the {F}actorized
+  {D}istribution {A}lgorithm.
+\newblock {\em Journal of Computing and Information Technology}, 7(1):19--32,
+  1998.
+
+\bibitem{Muhlenbein_and_Mahnig:1999a}
+H.~M{\"{u}}hlenbein and T.~Mahnig.
+\newblock The {F}actorized {D}istribution {A}lgorithm for additively decomposed
+  functions.
+\newblock In A.~Ochoa, M.~R. Soto, and R.~Santana, editors, {\em Proceedings of
+  the Second Symposium on Artificial Intelligence (CIMAF-99)}, pages 301--313,
+  Havana, Cuba, March 1999.
+
+\bibitem{Muhlenbein_and_Mahnig:1999}
+H.~M{\"{u}}hlenbein and T.~Mahnig.
+\newblock {FDA} -- a scalable evolutionary algorithm for the optimization of
+  additively decomposed functions.
+\newblock {\em Evolutionary Computation}, 7(4):353--376, 1999.
+
+\bibitem{Muehlenbein_and_Mahnig:2001b}
+H.~M{\"u}hlenbein and T.~Mahnig.
+\newblock Evolutionary computation and beyond.
+\newblock In Y.~Uesaka, P.~Kanerva, and H.~Asoh, editors, {\em Foundations of
+  Real-World Intelligence}, pages 123--188. CSLI Publications, Stanford,
+  California, 2001.
+
+\bibitem{Muehlenbein_and_Mahnig:2001a}
+H.~M{\"u}hlenbein and T.~Mahnig.
+\newblock Evolutionary synthesis of {B}ayesian networks for optimization.
+\newblock In M.~Patel, V.~Honavar, and K.~Balakrishnan, editors, {\em Advances
+  in {E}volutionary {S}ynthesis of {I}ntelligent {A}gents}, pages 429--455. MIT
+  Press, Cambridge, Mass., 2001.
+
+\bibitem{Muehlenbein_and_Mahnig:2002a}
+H.~M{\"u}hlenbein and T.~Mahnig.
+\newblock Evolutionary algorithms and the {B}oltzmann distribution.
+\newblock In K.~A. DeJong, R.~Poli, and J.~Rowe, editors, {\em Foundation of
+  Genetic Algorithms 7}, pages 133--150. Morgan Kaufmann, 2002.
+
+\bibitem{Muehlenbein_and_Mahnig:2002}
+H.~M{\"u}hlenbein and T.~Mahnig.
+\newblock Evolutionary optimization and the estimation of search distributions
+  with applications to graph bipartitioning.
+\newblock {\em International Journal on Approximate Reasoning}, 31(3):157--192,
+  2002.
+
+\bibitem{Muhlenbein_et_al:1999}
+H.~M{\"{u}}hlenbein, T.~Mahnig, and A.~Ochoa.
+\newblock Schemata, distributions and graphical models in evolutionary
+  optimization.
+\newblock {\em Journal of Heuristics}, 5(2):213--247, 1999.
+
+\bibitem{Muhlenbein_and_Paas:1996r}
+H.~M{\"{u}}hlenbein and G.~Paa{\ss}.
+\newblock From recombination of genes to the estimation of distributions {I}.
+  {B}inary parameters.
+\newblock In {\em Parallel Problem Solving from Nature - {PPSN IV}}, volume
+  1141 of {\em Lectures Notes in Computer Science}, pages 178--187, Berlin,
+  1996. Springer.
+
+\bibitem{Munteanu_and_Rosa:2007}
+C.~Munteanu and A.~Rosa.
+\newblock Symmetry at the genotypic level and the simple inversion operator.
+\newblock {\em Progress in Artificial Intelligence}, pages 209--222, 2007.
+
+\bibitem{Ochoa_et_al:2000a}
+A.~Ochoa, H.~M{\"{u}}hlenbein, and M.~R. Soto.
+\newblock A {F}actorized {D}istribution {A}lgorithm using single connected
+  {B}ayesian networks.
+\newblock In M.~Schoenauer, K.~Deb, G.~Rudolph, X.~Yao, E.~Lutton, J.~J.
+  Merelo, and H.-P. Schwefel, editors, {\em Parallel Problem Solving from
+  Nature - PPSN VI 6th International Conference}, Paris, France, September
+  16-20 2000. Springer.
+\newblock Lecture Notes in Computer Science 1917.
+
+\bibitem{Ochoa_et_al:1999}
+A.~Ochoa, M.~R. Soto, R.~Santana, J.~Madera, and N.~Jorge.
+\newblock The factorized distribution algorithm and the junction tree: A
+  learning perspective.
+\newblock In A.~Ochoa, M.~R. Soto, and R.~Santana, editors, {\em Proceedings of
+  the Second Symposium on Artificial Intelligence (CIMAF-99)}, pages 368--377,
+  Havana, Cuba, March 1999. Editorial Academia. Havana, Cuba.
+
+\bibitem{Okabe_et_al:2004}
+T.~Okabe, Y.~Jin, B.~Sendhoff, and M.~Olhofer.
+\newblock Voronoi-based estimation of distribution algorithm for
+  multi-objective optimization.
+\newblock In {\em Proceedings of the 2004 Congress on Evolutionary Computation
+  CEC-2004}, pages 1594--1601, Portland, Oregon, 2004. IEEE Press.
+
+\bibitem{Pearl:2000}
+J.~Pearl.
+\newblock {\em Causality: Models, Reasoning and Inference}.
+\newblock Cambridge University Press, 2000.
+
+\bibitem{Pearson_and_Pottman:2000}
+R.~K. Pearson and M.~Pottmann.
+\newblock Gray-box identification of block-oriented nonlinear models.
+\newblock {\em Journal of Process Control}, 10(4):301--315, 2000.
+
+\bibitem{Pelikan:2005}
+M.~Pelikan.
+\newblock {\em Hierarchical {B}ayesian {O}ptimization {A}lgorithm. {T}oward a
+  {N}ew {G}eneration of {E}volutionary {A}lgorithms}, volume 170 of {\em
+  Studies in {F}uzziness and {S}oft {C}omputing}.
+\newblock Springer, 2005.
+
+\bibitem{Pelikan_et_al:2003a}
+M.~Pelikan and D.~E. Goldberg.
+\newblock Hierarchical {BOA} solves {I}sing spin glasses and {MAXSAT}.
+\newblock In {\em Genetic and Evolutionary Computation GECCO-2003}, pages
+  1271--1282. Springer, 2003.
+
+\bibitem{Pelikan_et_al:1999}
+M.~Pelikan, D.~E. Goldberg, and E.~Cant{\'{u}}-Paz.
+\newblock {BOA}: The {B}ayesian optimization algorithm.
+\newblock In W.~Banzhaf, J.~Daida, A.~E. Eiben, M.~H. Garzon, V.~Honavar,
+  M.~Jakiela, and R.~E. Smith, editors, {\em Proceedings of the {G}enetic and
+  {E}volutionary {C}omputation {C}onference {GECCO}-1999}, volume~I, pages
+  525--532, Orlando, FL, 1999. Morgan Kaufmann Publishers, San Francisco, CA.
+
+\bibitem{Pelikan_and_Hauschild:2012}
+M.~Pelikan and M.~Hauschild.
+\newblock Transfer learning, soft distance-based bias, and the hierarchical
+  {BOA}.
+\newblock MEDAL Report No. 2012004, Missouri Estimation of Distribution
+  Algorithms Laboratory (MEDAL), March 2012.
+
+\bibitem{Pelikan_and_Hauschild:2012a}
+M.~Pelikan and M.~W. Hauschild.
+\newblock Learn from the past: Improving model-directed optimization by
+  transfer learning based on distance-based bias.
+\newblock MEDAL Report No. 2012007, Missouri Estimation of Distribution
+  Algorithms Laboratory (MEDAL), 2012.
+
+\bibitem{Pelikan_et_al:2011}
+M.~Pelikan, M.~W. Hauschild, and D.~Thierens.
+\newblock Pairwise and problem-specific distance metrics in the linkage tree
+  genetic algorithm.
+\newblock In {\em Proceedings of the 13th annual conference on Genetic and
+  evolutionary computation}, pages 1005--1012. ACM, 2011.
+
+\bibitem{Pelikan_et_al:2006a}
+M.~Pelikan, K.~Sastry, and D.~E. Goldberg.
+\newblock Multiobjective estimation of distribution algorithms.
+\newblock In M.~Pelikan, K.~Sastry, and E.~Cant\'u-Paz, editors, {\em Scalable
+  Optimization via Probabilistic Modeling: From Algorithms to Applications},
+  Studies in Computational Intelligence, pages 223--248. Springer, 2006.
+
+\bibitem{Picek_et_al:2015}
+S.~Picek, R.~I. McKay, R.~Santana, and T.~D. Gedeon.
+\newblock Fighting the symmetries: The structure of cryptographic boolean
+  function spaces.
+\newblock In {\em Proceedings of the Companion Publication of the 2015 on
+  Genetic and Evolutionary Computation Conference}, pages 457--464, Madrid,
+  Spain, 2015.
+
+\bibitem{Probst:2015a}
+M.~Probst.
+\newblock Denoising autoencoders for fast combinatorial black box optimization.
+\newblock In {\em Proceedings of the Companion Publication of the 2015 Annual
+  Conference on Genetic and Evolutionary Computation}, pages 1459--1460. ACM,
+  2015.
+
+\bibitem{Probst:2015}
+M.~Probst.
+\newblock Generative adversarial networks in estimation of distribution
+  algorithms for combinatorial optimization.
+\newblock {\em CoRR}, abs/1509.09235, 2015.
+
+\bibitem{Probst_and_Rothlauf:2015}
+M.~Probst and F.~Rothlauf.
+\newblock Deep {B}oltzmann machines in estimation of distribution algorithms
+  for combinatorial optimization.
+\newblock {\em CoRR}, abs/1509.06535, 2015.
+
+\bibitem{Probst_et_al:2017}
+M.~Probst, F.~Rothlauf, and J.~Grahl.
+\newblock Scalability of using restricted {B}oltzmann machines for
+  combinatorial optimization.
+\newblock {\em European Journal of Operational Research}, 256(2):368--383,
+  2017.
+
+\bibitem{Radeti_et_al:2009}
+E.~Radetic, M.~Pelikan, and D.~E. Goldberg.
+\newblock Effects of a deterministic hill climber on {hBOA}.
+\newblock In {\em Proceedings of the 11th Annual conference on Genetic and
+  evolutionary computation}, pages 437--444. ACM, 2009.
+
+\bibitem{Radman_et_al:1999}
+M.~Radman, I.~Matic, and F.~Taddei.
+\newblock Evolution of evolvability.
+\newblock {\em Annals of the New York Academy of Sciences}, 870(1):146--155,
+  1999.
+
+\bibitem{Riff:1997}
+M.~C. Riff-Rojas.
+\newblock Evolutionary search guided by the constraint network to solve csp.
+\newblock In {\em Evolutionary Computation, 1997., IEEE International
+  Conference on}, pages 337--342. IEEE, 1997.
+
+\bibitem{Rohlfshagen_and_Bullinaria:2008}
+P.~Rohlfshagen and J.~A. Bullinaria.
+\newblock Identification and exploitation of linkage by means of alternative
+  splicing.
+\newblock In {\em Linkage in Evolutionary Computation}, pages 189--223.
+  Springer, 2008.
+
+\bibitem{Sadowski_et_al:2016}
+K.~L. Sadowski, P.~A. Bosman, and D.~Thierens.
+\newblock Learning and exploiting mixed variable dependencies with a
+  model-based {EA}.
+\newblock In {\em Evolutionary Computation (CEC), 2016 IEEE Congress on}, pages
+  4382--4389. IEEE, 2016.
+
+\bibitem{Saikia_et_al:2016}
+S.~Saikia, L.~Vig, A.~Srinivasan, G.~Shroff, P.~Agarwal, and R.~Rawat.
+\newblock Neuro-symbolic {EDA}-based optimisation using {ILP}-enhanced {DBNs}.
+\newblock {\em CoRR}, abs/1612.06528, 2017.
+
+\bibitem{Santana:2003c}
+R.~Santana.
+\newblock A {M}arkov network based factorized distribution algorithm for
+  optimization.
+\newblock In {\em Proceedings of the 14th European Conference on Machine
+  Learning (ECML-PKDD 2003)}, volume 2837 of {\em Lecture Notes in Artificial
+  Intelligence}, pages 337--348, Dubrovnik, Croatia, 2003. Springer.
+
+\bibitem{Santana:2005}
+R.~Santana.
+\newblock {E}stimation of distribution algorithms with {K}ikuchi
+  approximations.
+\newblock {\em Evolutionary Computation}, 13(1):67--97, 2005.
+
+\bibitem{Santana_et_al:2013}
+R.~Santana, R.~Arma{\~{n}}anzas, C.~Bielza, and P.~Larra{\~{n}}aga.
+\newblock Network measures for information extraction in evolutionary
+  algorithms.
+\newblock {\em International Journal of Computational Intelligence Systems},
+  6(6):1163--1188, 2013.
+
+\bibitem{Santana_et_al:1999}
+R.~Santana, E.~P. de~Le\'on, and A.~Ochoa.
+\newblock The incident edge model.
+\newblock In A.~Ochoa, M.~R. Soto, and R.~Santana, editors, {\em Proceedings of
+  the Second Symposium on Artificial Intelligence (CIMAF-99)}, pages 352--359,
+  Havana, Cuba, March 1999.
+
+\bibitem{Santana_et_al:2005b}
+R.~Santana, P.~Larra{\~{n}}aga, and J.~A. Lozano.
+\newblock Interactions and dependencies in estimation of distribution
+  algorithms.
+\newblock In {\em Proceedings of the 2005 Congress on Evolutionary Computation
+  CEC-2005}, pages 1418--1425, Edinburgh, U.K., 2005. IEEE Press.
+
+\bibitem{Santana_et_al:2007f}
+R.~Santana, P.~Larra{\~{n}}aga, and J.~A. Lozano.
+\newblock Challenges and open problems in discrete {EDA}s.
+\newblock Technical Report EHU-KZAA-IK-1/07, Department of Computer Science and
+  Artificial Intelligence, University of the Basque Country, October 2007.
+
+\bibitem{Santana_et_al:2008c}
+R.~Santana, P.~Larra{\~n}aga, and J.~A. Lozano.
+\newblock Adaptive estimation of distribution algorithms.
+\newblock In C.~Cotta, M.~Sevaux, and K.~S\"orensen, editors, {\em Adaptive and
+  Multilevel Metaheuristics}, volume 136 of {\em Studies in Computational
+  Intelligence}, pages 177--197. Springer, 2008.
+
+\bibitem{Santana_et_al:2008f}
+R.~Santana, P.~Larra{\~{n}}aga, and J.~A. Lozano.
+\newblock Combining variable neighborhood search and estimation of distribution
+  algorithms in the protein side chain placement problem.
+\newblock {\em Journal of Heuristics}, 14:519--547, 2008.
+
+\bibitem{Santana_et_al:2009b}
+R.~Santana, P.~Larra{\~{n}}aga, and J.~A. Lozano.
+\newblock Research topics on discrete estimation of distribution algorithms.
+\newblock {\em Memetic Computing}, 1(1):35--54, 2009.
+
+\bibitem{Santana_et_al:2009c}
+R.~Santana, P.~Larra{\~{n}}aga, and J.~A. Lozano.
+\newblock Learning factorizations in estimation of distribution algorithms
+  using affinity propagation.
+\newblock {\em Evolutionary Computation}, 18(4):515--546, 2010.
+
+\bibitem{Santana_et_al:2013a}
+R.~Santana, R.~I. McKay, and J.~A. Lozano.
+\newblock Symmetry in evolutionary and estimation of distribution algorithms.
+\newblock In {\em Proceedings of the 2013 Congress on Evolutionary Computation
+  CEC-2013}, Cancun, Mexico, 2013. IEEE Press.
+\newblock In Press.
+
+\bibitem{Santana_et_al:2012f}
+R.~Santana, A.~Mendiburu, and J.~A. Lozano.
+\newblock Structural transfer using {EDAs}: An application to multi-marker
+  tagging {SNP} selection.
+\newblock In {\em Proceedings of the 2012 Congress on Evolutionary Computation
+  CEC-2012}, pages 3484--3491, Brisbane, Australia, 2012. IEEE Press.
+\newblock Best Paper Award of 2012 Congress on Evolutionary Computation.
+
+\bibitem{Santana_et_al:2013b}
+R.~Santana, A.~Mendiburu, and J.~A. Lozano.
+\newblock Message passing methods for estimation of distribution algorithms
+  based on {M}arkov networks.
+\newblock In {\em Proceedings of the 4th Conference on Swarm, Evolutionary, and
+  Memetic Computing (SEMCCO-2013)}, Lectures Notes in Computer Science, pages
+  419--430, Chennai, India, 2013. Springer.
+\newblock In press.
+
+\bibitem{Santana_and_Ochoa:1999b}
+R.~Santana and A.~Ochoa.
+\newblock Dealing with constraints with estimation of distribution algorithms:
+  The univariate case.
+\newblock In A.~Ochoa, M.~R. Soto, and R.~Santana, editors, {\em Proceedings of
+  the Second Symposium on Artificial Intelligence (CIMAF-99)}, pages 378--384,
+  Havana, Cuba, March 1999.
+
+\bibitem{Santana_et_al:2001c}
+R.~Santana, A.~Ochoa, and M.~R. Soto.
+\newblock {F}actorized {D}istribution {A}lgorithms for functions with unitation
+  constraints.
+\newblock In {\em Evolutionary Computation and Probabilistic Graphical Models.
+  Proceedings of the Third Symposium on Adaptive Systems (ISAS-2001)}, pages
+  158--165, Havana, Cuba, March 2001.
+
+\bibitem{Santana_et_al:2001b}
+R.~Santana, A.~Ochoa, and M.~R. Soto.
+\newblock The mixture of trees factorized distribution algorithm.
+\newblock In L.~Spector, E.~Goodman, A.~Wu, W.~Langdon, H.~Voigt, M.~Gen,
+  S.~Sen, M.~Dorigo, S.~Pezeshk, M.~Garzon, and E.~Burke, editors, {\em
+  Proceedings of the Genetic and Evolutionary Computation Conference
+  {GECCO}-2001}, pages 543--550, San Francisco, CA, 2001. Morgan Kaufmann
+  Publishers.
+
+\bibitem{Sastry_and_Goldberg:2004a}
+K.~Sastry and D.~E. Goldberg.
+\newblock Designing competent mutation operators via probabilistic model
+  building of neighborhoods.
+\newblock In {\em Genetic and Evolutionary Computation--GECCO 2004}, pages
+  114--125. Springer, 2004.
+
+\bibitem{Sastry_et_al:2005a}
+K.~Sastry, M.~Pelikan, and D.~E. Goldberg.
+\newblock Decomposable problems, niching, and scalability of multiobjective
+  estimation of distribution algorithms.
+\newblock {\em CoRR}, cs/0502057, 2005.
+
+\bibitem{Schwarz_and_Ocenasek:2000}
+J.~Schwarz and J.~Ocenasek.
+\newblock A problem knowledge-based evolutionary algorithm {KBOA} for
+  hypergraph bisectioning.
+\newblock In {\em Proceedings of the 4th joint conference on knowledge-based
+  software engineering}, pages 51--58. IOS Press, 2000.
+
+\bibitem{Shakya_and_McCall:2007}
+S.~Shakya and J.~McCall.
+\newblock Optimization by estimation of distribution with {DEUM} framework
+  based on {M}arkov random fields.
+\newblock {\em International Journal of Automation and Computing},
+  4(3):262--272, 2007.
+
+\bibitem{Shakya_and_Santana:2012a}
+S.~Shakya and R.~Santana.
+\newblock A review of estimation of distribution algorithms and {M}arkov
+  networks.
+\newblock In S.~Shakya and R.~Santana, editors, {\em Markov Networks in
+  Evolutionary Computation}, pages 21--37. Springer, 2012.
+
+\bibitem{Shakya_et_al:2011}
+S.~Shakya, R.~Santana, and J.~A. Lozano.
+\newblock A {Markovianity} based optimisation algorithm.
+\newblock {\em Genetic Programming and Evolvable Machines}, 13(2):159--195,
+  2012.
+
+\bibitem{Shim_and_Tan:2012}
+V.~A. Shim and K.~C. Tan.
+\newblock Probabilistic graphical approaches for learning, modeling, and
+  sampling in evolutionary multi-objective optimization.
+\newblock In {\em IEEE World Congress on Computational Intelligence}, pages
+  122--144. Springer, 2012.
+
+\bibitem{Shim_et_al:2013}
+V.~A. Shim, K.~C. Tan, C.~Y. Cheong, and J.~Y. Chia.
+\newblock Enhancing the scalability of multi-objective optimization via
+  restricted {B}oltzmann machine-based estimation of distribution algorithm.
+\newblock {\em Information Sciences}, 248:191--213, 2013.
+
+\bibitem{Sniegowski_and_Murphy:2006}
+P.~D. Sniegowski and H.~A. Murphy.
+\newblock Evolvability.
+\newblock {\em Current Biology}, 16(19):R831--R834, 2006.
+
+\bibitem{Soto_et_al:1999}
+M.~R. Soto, A.~Ochoa, S.~Acid, and L.~M. Campos.
+\newblock {B}ayesian evolutionary algorithms based on simplified models.
+\newblock In A.~Ochoa, M.~R. Soto, and R.~Santana, editors, {\em Proceedings of
+  the Second Symposium on Artificial Intelligence (CIMAF-99)}, pages 360--367,
+  Havana, Cuba, March 1999.
+
+\bibitem{Tang_et_al:2010}
+H.~Tang, V.~Shim, K.~Tan, and J.~Chia.
+\newblock Restricted {B}oltzmann machine based algorithm for multi-objective
+  optimization.
+\newblock In {\em Evolutionary Computation (CEC), 2010 IEEE Congress on}, pages
+  1--8. IEEE, 2010.
+
+\bibitem{Tarjan_and_Yannakakis:1984}
+R.~E. Tarjan and M.~Yannakakis.
+\newblock Simple linear time algorithms to test chordality of graphs, test
+  acyclicity of hypergraphs, and selectively reduce acyclic hypergraphs.
+\newblock {\em Siam Journal of Computing}, 13(3):566--579, August 1984.
+
+\bibitem{Thierens:2011}
+D.~Thierens.
+\newblock The linkage tree genetic algorithm.
+\newblock {\em Parallel Problem Solving from Nature--PPSN XI}, pages 264--273,
+  2011.
+
+\bibitem{Thierens_and_Bosman:2011}
+D.~Thierens and P.~A. Bosman.
+\newblock Optimal mixing evolutionary algorithms.
+\newblock In {\em Proceedings of the Genetic and Evolutionary Computation
+  Conference {GECCO}-2011}, pages 617--624, 2011.
+
+\bibitem{Thierens_and_Bosman:2013}
+D.~Thierens and P.~A. Bosman.
+\newblock Hierarchical problem solving with the linkage tree genetic algorithm.
+\newblock In {\em Proceedings of the 15th annual conference on Genetic and
+  evolutionary computation}, pages 877--884. ACM, 2013.
+
+\bibitem{Thierens_et_al:1998}
+D.~Thierens, D.~E. Goldberg, and A.~G. Pereira.
+\newblock Domino convergence, drift, and the temporal-salience structure of
+  problems.
+\newblock In {\em Proceedings of {1998} {IEEE} {I}nternational {C}onference on
+  {E}volutionary {C}omputation}, pages 535--540, Anchorage, AK, 1998.
+
+\bibitem{Tinos_et_al:2015}
+R.~Tin\'os, D.~Whitley, and F.~Chicano.
+\newblock Partition crossover for {pseudo-Boolean} optimization.
+\newblock In {\em Proceedings of the 2015 ACM Conference on Foundations of
+  Genetic Algorithms XIII}, pages 137--149. ACM, 2015.
+
+\bibitem{Tsang_et_al:2017}
+M.~Tsang, D.~Cheng, and Y.~Liu.
+\newblock Detecting statistical interactions from neural network weights.
+\newblock {\em CoRR}, abs/1705.04977, 2017.
+
+\bibitem{Tsuji_et_al:2007}
+M.~Tsuji, M.~Munetomo, and K.~Akama.
+\newblock A network design problem by a {GA} with linkage identification and
+  recombination for overlapping building blocks.
+\newblock In {\em Evolutionary Computation, 2007. CEC 2007. IEEE Congress on},
+  pages 349--356. IEEE, 2007.
+
+\bibitem{Tung_and_Yu:2015}
+Y.-F. Tung and T.-L. Yu.
+\newblock Theoretical perspective of convergence complexity of evolutionary
+  algorithms adopting optimal mixing.
+\newblock In {\em Proceedings of the 2015 Annual Conference on Genetic and
+  Evolutionary Computation}, pages 535--542. ACM, 2015.
+
+\bibitem{Vincent_et_al:2010}
+P.~Vincent, H.~Larochelle, I.~Lajoie, Y.~Bengio, and P.-A. Manzagol.
+\newblock Stacked denoising autoencoders: Learning useful representations in a
+  deep network with a local denoising criterion.
+\newblock {\em Journal of Machine Learning Research}, 11(Dec):3371--3408, 2010.
+
+\bibitem{Wagner_et_al:1996}
+G.~P. Wagner and L.~Altenberg.
+\newblock Perspective: complex adaptations and the evolution of evolvability.
+\newblock {\em Evolution}, 50(3):967--976, 1996.
+
+\bibitem{Wang_et_al:2014}
+S.-M. Wang, Y.-F. Tung, and T.-L. Yu.
+\newblock Investigation on efficiency of optimal mixing on various linkage
+  sets.
+\newblock In {\em Evolutionary Computation (CEC), 2014 IEEE Congress on}, pages
+  2475--2482. IEEE, 2014.
+
+\bibitem{Whitley:2015a}
+D.~Whitley.
+\newblock Blind no more: Constant time non-random improving moves and
+  exponentially powerful recombination.
+\newblock In {\em Proceedings of the Companion Publication of the 2015 on
+  Genetic and Evolutionary Computation Conference}, pages 391--407. ACM, 2015.
+
+\bibitem{Whitley:2015}
+D.~Whitley.
+\newblock {Mk} landscapes, {NK} landscapes, {MAX-kSAT}: A proof that the only
+  challenging problems are deceptive.
+\newblock In {\em Proceedings of the 2015 on Genetic and Evolutionary
+  Computation Conference}, pages 927--934. ACM, 2015.
+
+\bibitem{Whitley2016a}
+D.~Whitley.
+\newblock Blind no more: Deterministic partition crossover and deterministic
+  improving moves.
+\newblock In {\em Proceedings of the Companion Publication of the 2016 on
+  Genetic and Evolutionary Computation Conference}, pages 515--532. ACM, 2016.
+
+\bibitem{Whitley_and_Chen:2012}
+D.~Whitley and W.~Chen.
+\newblock Constant time steepest descent local search with lookahead for
+  {NK}-landscapes and {MAX-kSAT}.
+\newblock In {\em Proceedings of the 14th annual conference on Genetic and
+  evolutionary computation}, pages 1357--1364. ACM, 2012.
+
+\bibitem{Whitley_et_al:2016}
+D.~Whitley, F.~Chicano, and B.~W. Goldman.
+\newblock Gray box optimization for {Mk} landscapes ({NK} landscapes and
+  {MAX-kSAT}).
+\newblock {\em Evolutionary computation}, 24(3):491--519, 2016.
+
+\bibitem{Whitley_et_al:2013}
+D.~Whitley, A.~E. Howe, and D.~Hains.
+\newblock Greedy or not? best improving versus first improving stochastic local
+  search for {MAXSAT}.
+\newblock In {\em AAAI}, 2013.
+
+\bibitem{Wilder_and_Stanley:2015}
+B.~Wilder and K.~Stanley.
+\newblock Reconciling explanations for the evolution of evolvability.
+\newblock {\em Adaptive Behavior}, 23(3):171--179, 2015.
+
+\bibitem{Yannakakis:1981}
+M.~Yannakakis.
+\newblock Computing the minimum fill-in is {NP}-complete.
+\newblock {\em SIAM Journal on Algebraic Discrete Methods}, 2(1):77--79, 1981.
+
+\bibitem{Yedidia_et_al:2002a}
+J.~S. Yedidia, W.~T. Freeman, and Y.~Weiss.
+\newblock Constructing free energy approximations and generalized belief
+  propagation algorithms.
+\newblock Technical Report TR-2002-35, Mitsubishi Electric Research
+  Laboratories, August 2002.
+
+\bibitem{TianLi_et_al:2009}
+T.-L. Yu, D.~E. Goldberg, K.~Sastry, C.~F. Lima, and M.~Pelikan.
+\newblock Dependency structure matrix, genetic algorithms, and effective
+  recombination.
+\newblock {\em Evolutionary computation}, 17(4):595--626, 2009.
+
+\bibitem{Zangari_et_al:2016}
+M.~Zangari-de Souza, R.~Santana, A.~Mendiburu, and A.~Pozo.
+\newblock On the design of hard {mUBQP} instances.
+\newblock In {\em Proceedings of the 2016 on Genetic and Evolutionary
+  Computation Conference}, pages 421--428. ACM, 2016.
+
+\bibitem{Zangari_et_al:2015}
+M.~Zangari-de Souza, R.~Santana, A.~T.~R. Pozo, and A.~Mendiburu.
+\newblock {MOEA/D-GM:} using probabilistic graphical models in {MOEA/D} for
+  solving combinatorial optimization problems.
+\newblock {\em CoRR}, abs/1511.05625, 2015.
+
+\bibitem{Zhang_and_Shin:2000}
+B.~T. Zhang, , and S.~Y. Shin.
+\newblock {B}ayesian evolutionary optimization using {H}elmholz machines.
+\newblock In {\em Parallel Problem Solving from Nature, Lecture Notes in
+  Computer Science}, volume 1917, pages 827--836. Springer, 2000.
+
+\bibitem{Zhang:2004}
+Q.~Zhang.
+\newblock On stability of fixed points of limit models of univariate marginal
+  distribution algorithm and factorized distribution algorithm.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 8(1):80--93,
+  2004.
+
+\bibitem{Zhang_and_Li:2007}
+Q.~Zhang and H.~Li.
+\newblock {MOEA/D}: {A} multiobjective evolutionary algorithm based on
+  decomposition.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 11(6):712--731,
+  2007.
+
+\bibitem{Zhang_and_Sun:2006}
+Q.~Zhang and J.~Sun.
+\newblock Iterated local search with guided mutation.
+\newblock In {\em Evolutionary Computation, 2006. CEC 2006. IEEE Congress on},
+  pages 924--929. IEEE, 2006.
+
+\bibitem{Zhang_et_alL2003a}
+Q.~Zhang, J.~Sun, E.~Tsang, and J.~Ford.
+\newblock Combination of guided local search and estimation of distribution
+  algorithm for quadratic assignment problems.
+\newblock In {\em Proceedings of the Genetic and Evolutionary Computation
+  Conference GECCO-2003}, pages 42--48, 2003.
+
+\bibitem{Zhang_et_al:2005a}
+Q.~Zhang, J.~Sun, and E.~P.~K. Tsang.
+\newblock Evolutionary algorithm with guided mutation for the maximum clique
+  problem.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 9(2):192--200,
+  2005.
+
+\bibitem{Zhang_et_al:2008}
+Q.~Zhang, A.~Zhou, and Y.~Jin.
+\newblock {RM-MEDA}: {A} regularity model based multiobjective estimation of
+  distribution algorithm.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 12(1):41--63,
+  2008.
+
+\bibitem{Zhou_et_al:2009}
+A.~Zhou, Q.~Zhang, and Y.~Jin.
+\newblock Approximating the set of {P}areto-optimal solutions in both the
+  decision and objective spaces by an estimation of distribution algorithm.
+\newblock {\em Evolutionary Computation, IEEE Transactions on},
+  13(5):1167--1189, 2009.
+
+\bibitem{Zhou_et_al:2008}
+S.~Zhou, R.~B. Heckendorn, and Z.~Sun.
+\newblock Detecting the epistatic structure of generalized embedded landscape.
+\newblock {\em Genetic Programming and Evolvable Machines}, 9(2):125--155,
+  2008.
+
+\bibitem{Zlochin_et_al:2004}
+M.~Zlochin, M.~Birattari, N.~Meuleau, and M.~Dorigo.
+\newblock Model-based search for combinatorial optimization: {A} critical
+  survey.
+\newblock {\em Annals of Operations Research}, 131(1-4):373--395, 2004.
+
+\end{thebibliography}

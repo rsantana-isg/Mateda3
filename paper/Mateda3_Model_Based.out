@@ -1,0 +1,47 @@
+\BOOKMARK [1][-]{section.1}{To do}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{About running the program}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Link with other libraries}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Addition of neural models}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Paper structure}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{New contents to add}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{New problems to add}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{Link with other libraries}{section.1}% 8
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 9
+\BOOKMARK [1][-]{section.3}{Gray-box optimization problems and gray-box optimizers}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Problem structure}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Gray-box optimization problems}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Gray-box optimizers}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Estimation of distribution algorithms}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Factorized distribution algorithms}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Alternative views of EDAs}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.1}{An EA that learns and samples a probability model}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.2}{An automatic way to generate models of an optimization problem}{subsection.4.2}% 18
+\BOOKMARK [3][-]{subsubsection.4.2.3}{An effective method for problem decomposition}{subsection.4.2}% 19
+\BOOKMARK [3][-]{subsubsection.4.2.4}{An algorithm to evolve probability distributions}{subsection.4.2}% 20
+\BOOKMARK [1][-]{section.5}{Gray-box optimization and EDAs}{}% 21
+\BOOKMARK [2][-]{subsection.5.1}{Class of problems}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.2}{Representation of the problem structure}{section.5}% 23
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Interaction graphs}{subsection.5.2}% 24
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Factor graphs}{subsection.5.2}% 25
+\BOOKMARK [2][-]{subsection.5.3}{Modeling the search}{section.5}% 26
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Hyperplanes and factors}{subsection.5.3}% 27
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Other representations}{subsection.5.3}% 28
+\BOOKMARK [2][-]{subsection.5.4}{Using the structure for the search}{section.5}% 29
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Using the structure to bias the learning of the probabilistic model}{subsection.5.4}% 30
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Design of more efficient search operators}{subsection.5.4}% 31
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Hybrid methods that exploit problem structure}{subsection.5.4}% 32
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Transfer learning strategies based on structural similarity}{subsection.5.4}% 33
+\BOOKMARK [2][-]{subsection.5.5}{Problem structure, problem difficulty, and algorithm behavior}{section.5}% 34
+\BOOKMARK [3][-]{subsubsection.5.5.1}{Trivial and hard functions for gray-optimization and FDAs}{subsection.5.5}% 35
+\BOOKMARK [1][-]{section.6}{Competing analytical characterizations at work}{}% 36
+\BOOKMARK [2][-]{subsection.6.1}{A link between hyperplane statistics and marginal distributions}{section.6}% 37
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Boltzmann distribution}{subsection.6.1}% 38
+\BOOKMARK [2][-]{subsection.6.2}{The case of problems with circular structure}{section.6}% 39
+\BOOKMARK [1][-]{section.7}{Improving and extending the scope of methods that exploit the problem structure}{}% 40
+\BOOKMARK [2][-]{subsection.7.1}{Large sets of interacting variables and high cardinality of the variables}{section.7}% 41
+\BOOKMARK [2][-]{subsection.7.2}{Estimating or learning the structure of black-box problems}{section.7}% 42
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Neural and deep learning models in estimation of distribution algorithms}{subsection.7.2}% 43
+\BOOKMARK [2][-]{subsection.7.3}{Redefining problem structure for constrained and multi-objective problems}{section.7}% 44
+\BOOKMARK [2][-]{subsection.7.4}{The question of evolvability}{section.7}% 45
+\BOOKMARK [2][-]{subsection.7.5}{Combination of gray-box optimization and EDAs}{section.7}% 46
+\BOOKMARK [1][-]{section.8}{Conclusions}{}% 47

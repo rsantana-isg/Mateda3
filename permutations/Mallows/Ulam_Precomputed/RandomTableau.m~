@@ -1,0 +1,43 @@
+function [Tableau] = RandomTableau(NumbVar,lambda)
+
+ Tableau(1:NumbVar) = 0;
+  
+  count=0;
+  for i=1:NumbVar,
+    for j=1:lambda(i)
+      Tableau(j) = Tableau(j) + 1;
+      count = count + 1;
+    end
+  end   
+
+  for k=1:NumbVar,
+    notfound = 0;  
+    while(notfound==0)
+      i = randi(Tableau(1));
+      j = randi(lambda(1));      
+      notfound = (i<= Tableau(j) & j <= lambda(i));       
+    end
+
+    ih = 1;
+    while(ih~=0)
+      ih = Tableau(j) + lambda(i) - i - j;
+      if(ih>0)
+        k = randi(ih);
+        if ( k <= lambda(i)-j )
+          j = j + k;
+        else
+          i = k - lambda(i) + i + j;
+        end
+      end  
+    end
+    lambda(i) = lambda(i) - 1;
+    Tableau(j) = Tableau(j) - 1;
+    Tableau(NumbVar+1-k) = i;
+  end
+
+  %for i=1:NumbVar,
+   % lambda(Tableau(i)) = lambda(Tableau(i)) + 1;
+  %end
+
+  
+  return

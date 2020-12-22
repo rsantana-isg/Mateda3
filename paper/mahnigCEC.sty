@@ -1,0 +1,174 @@
+\usepackage{epsfig}
+\usepackage{amsmath}
+%\usepackage{amsthm}
+\usepackage{xspace}
+\usepackage{fancybox}
+\usepackage{ifthen}
+\usepackage{amssymb}
+\usepackage[pdf]{pstricks}
+\usepackage{pst-node}
+%\usepackage{chess,bdfchess}
+\usepackage{latexsym}
+
+
+\DeclareMathOperator{\argmax}{argmax}
+\newcommand*{\ATT}{\ensuremath{\circledast}\marginpar{\huge\quad$\circledast$}}
+\newcommand*{\R}{\mathrm{I\!R}}
+\newcommand*{\D}{\mathrm{I\!D}}
+\newcommand*{\x}{\mathbf{x}}
+\newcommand*{\y}{\mathbf{y}}
+\newcommand*{\G}{{\cal G}}
+\newcommand*{\W}{\mathcal{R}}
+\newcommand*{\Maxima}{\mathcal{M}}
+\newcommand*{\Wu}{W^{\textsl{u}}}
+\newcommand*{\WuO}{W^{\textsl{u0}}}
+\newcommand*{\Vars}{\ensuremath{\bar X}}
+\newcommand*{\Q}{Q}
+\newcommand*{\M}{\mathcal{M}}
+\newcommand*{\fb}{\bar f}
+\newcommand*{\Bild}{\textrm{Bild}}
+\newcommand*{\Mom}{M}
+\newcommand*{\zMom}{M^c}
+\newcommand*{\bitinv}{\sim\!}
+\newcommand*{\critPop}{N^*}
+\newcommand*{\Kanten}{E}
+\newcommand*{\maxAll}{\hat\mathcal{R}}
+\newcommand*{\maxGen}{\textit{Gen}}
+\newcommand*{\maxPar}{k_{\max}}
+\newcommand*{\indi}[1]{{\mathfrak X}^{#1}}
+\newcommand*{\Proj}[1]{{\bar P}_{#1}}
+\newcommand*{\indipop}{{\mathfrak X}}
+\newcommand*{\indiSpop}{{\hat{\mathfrak X}}}
+\newcommand*{\indipos}[2]{{\mathfrak X}^{#1}_{#2}}
+%\newcommand*{\indisel}[1]{\rule{0pt}{2ex}^{s}{\mathfrak X}^{#1}}
+\newcommand*{\indisel}[1]{\hat{\mathfrak X}^{#1}}
+\newcommand*{\indiselpos}[2]{\hat{\mathfrak X}^{#1}_{#2}}
+\newcommand*{\sN}{\hat N}
+\newcommand*{\Popul}{\ensuremath{{\cal P}}}
+\newcommand*{\KullLei}[2]{\ensuremath{\textrm{KLD}(#1\!\parallel\!#2)}}
+\DeclareMathOperator{\indepop}{\perp\!\!\!\perp}
+\newcommand*{\Indep}[2]{{#1}\indepop{#2}}
+\newcommand*{\Cond}{\,|\,}
+
+\newcommand{\FN}[1]{\text{\textsl{#1}}\xspace}
+
+\newcommand*{\Onemax}{\FN{OneMax}}
+\newcommand*{\Dyna}{\FN{Dyna}}
+\newcommand*{\Jump}{\FN{Jump}}
+\newcommand*{\UMDA}{\FN{UMDA}}
+\newcommand*{\PTAS}{\FN{PTAS}}
+%\newcommand*{\UmdaDec}{\FN{UmdaDec}}
+\newcommand*{\XorChain}{\FN{XorKette}}
+\newcommand*{\Xor}{\FN{xor}}
+\newcommand*{\KLUMDA}{\FN{KL-UMDA}}
+\newcommand*{\BEDA}{\FN{BEDA}}
+\newcommand*{\FDA}{\FN{FDA}}
+\newcommand*{\EDA}{\FN{EDA}}
+\newcommand*{\SDS}{\FN{SDS}}
+\newcommand*{\GA}{\FN{SGA}}
+\newcommand*{\FE}{\FN{FE}}
+\newcommand*{\SA}{\FN{SA}}
+\newcommand*{\LFDA}{\FN{LFDA}}
+\newcommand*{\Linear}{\FN{Linear}}
+\newcommand*{\Chain}{\FN{Chain}}
+\newcommand*{\NK}{\FN{NK}}
+\newcommand*{\GLin}{\FN{GLin}}
+\newcommand*{\IntF}{\FN{Int}}
+\newcommand*{\Saw}{\FN{Saw}}
+\newcommand*{\Dec}{\FN{Dec}}
+\newcommand*{\Iso}{\FN{IsoC}}
+\newcommand*{\BetaD}{\FN{Beta}}
+
+
+
+%\newcommand*{\AlgoStep}[1]{step {#1}}
+
+%\newcounter{AlgoStepCnt}
+\newenvironment{Algo}[2][0]{%
+  \begin{center}\begin{minipage}{0.9\textwidth}%
+    \centerline{\textbf{\large {#2}}}\vspace{-1ex}%
+    \centerline{\rule{0.93\textwidth}{0.5pt}}%
+    \begin{list}{}{\setlength{\itemsep}{1.5ex plus 0ex minus 1ex}\setlength{\parsep}{0pt}%
+        \setlength{\topsep}{0pt}\setlength{\parskip}{0pt}\setlength{\partopsep}{0pt}%
+        \setlength{\leftmargin}{\labelwidth}\addtolength{\leftmargin}{4\labelsep} %
+        \setlength{\rightmargin}{3\labelsep}%
+        \setcounter{AlgoStepCnt}{#1}%
+        \renewcommand{\makelabel}{%
+          \textbf{\AlgoStep{\arabic{AlgoStepCnt}}:~}\refstepcounter{AlgoStepCnt}}
+        } }%
+    {\end{list}\centerline{\rule[1ex]{0.93\textwidth}{0.5pt}}%
+  \end{minipage}\end{center}}
+
+%\newtheorem{theorem}{Theorem}
+%\newtheorem{corollary}{Corollary}
+\newtheorem{example}{Example}
+%\newtheorem{counterexample}{Counterexample}
+%\newtheorem{lemma}{Lemma}
+\newtheorem{definition}{Definition}
+%\newtheorem{proposition}{Proposition}
+%\newtheorem{conjecture}{Conjecture}
+%\newtheorem{remark}{Remark}
+
+%\newtheorem{quest}{Question}
+%\newtheorem{keyquestion}{Key question}
+%\newtheorem{openproblem}{Open problem}
+
+\newcommand*{\nicefrac}[2]{\leavevmode\kern.1em
+  \raisebox{.5ex}{\scriptsize \ensuremath{#1}}\kern-.1em
+  /\kern-.15em\raisebox{-.25ex}{\scriptsize \ensuremath{#2}}}
+\newcommand*{\Vari}{\sigma^2}
+\newcommand*{\StdDev}{\sigma}
+\newcommand*{\pPara}[1][]{\tilde p^{\textsl{#1}}}
+\newcommand*{\restr}[1]{\smash{\rule[-1ex]{.3pt}{.8\baselineskip}}_{\,[#1]}}
+\newcommand*{\scalar}[2]{\langle #1,#2\rangle}
+
+\newlength{\TTL}
+\newlength{\TMPL}
+
+\newcommand*{\Let}[2]{\ensuremath{#1\Leftarrow#2}}
+\newcommand*{\AlgoStep}[1]{Step {#1}}
+\newcounter{AlgoStepCnt}
+\newcounter{algo}
+\makeatletter
+\newenvironment{BAlgo}[2][1]{
+%  \newcommand*{\Let}[2]{##1\Leftarrow##2}
+
+  \newcommand*{\For}[2]{\textbf{for} $##1$ \textbf{to} $##2$}
+  \newcommand*{\If}{\textbf{if }}
+  \newcommand*{\Then}{\textbf{then }}
+  \newcommand*{\Else}{\textbf{else}\xspace}
+  \newcommand*{\End}{\} }
+  \newcommand*{\Do}{\textbf{do} \{ }
+  \newcommand*{\Return}{\textbf{return}\xspace}
+  \newcommand*{\Until}[1]{\} \textbf{until} ##1}
+  \newcommand*{\While}[1]{\} \textbf{while} ##1}
+  \newcommand*{\WhileDo}[1]{\textbf{while} ##1 \Do}
+  \newcommand*{\T}[1]{\rule{3ex}{0pt}\setlength{\TMPL}{\TTL}\addtolength{\TMPL}{
+-3ex}\parbox[t]{\TMPL}{\setlength{\baselineskip}{0pt}{##1}}}
+  \newcommand*{\TT}[1]{\rule{6ex}{0pt}\setlength{\TMPL}{\TTL}\addtolength{\TMPL}
+{-6ex}\parbox[t]{\TMPL}{\setlength{\baselineskip}{0pt}##1}}
+  \newcommand*{\TTT}[1]{\rule{9ex}{0pt}\setlength{\TMPL}{\TTL}\addtolength{\TMPL
+}{-9ex}\parbox[t]{\TMPL}{\setlength{\baselineskip}{0pt}##1}}
+ \begin{figure}[htb]
+    \refstepcounter{algo}%
+   % \setlength{\columnwidth}{8.6cm}%
+  \begin{minipage}{\columnwidth}%
+      \centerline{Algorithm~\thealgo: \textbf{#2}}\vspace{-1ex}%
+       \centerline{\rule{0.93\columnwidth}{0.5pt}}%
+      \begin{list}{}{\setlength{\itemsep}{0pt}\setlength{\parsep}{3pt}%
+          \setlength{\topsep}{0pt}\setlength{\parskip}{0pt}\setlength{\partopsep
+}{0pt}%
+          \setlength{\baselineskip}{0pt}%
+          \setlength{\leftmargin}{2em}%
+          \setcounter{AlgoStepCnt}{#1}%
+          \setlength{\rightmargin}{1em}%
+          \setlength{\TTL}{\columnwidth}%
+          \addtolength{\TTL}{-3em}
+          \renewcommand{\makelabel}{\hfill\textit{\footnotesize{\arabic{AlgoStepCnt}}}\stepcounter{AlgoStepCnt}~}%
+          } }%
+      {\end{list}
+
+      \centerline{\rule[1ex]{0.93\columnwidth}{0.5pt}}
+      \end{minipage}
+      \end{figure}
+      }

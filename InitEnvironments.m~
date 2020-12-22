@@ -1,0 +1,40 @@
+function[] = InitEnvironments()
+% [] = InitEnvironments()
+%
+% InitEnvironments:           Initialize the environment of mateda
+%                   After installing the BNT, BNT_SLP learning matlab, and
+%                   mateda toolboxs, update the paths below according the
+%                   location of the programs in your computer.             
+%
+% Last version 8/26/2008. Roberto Santana (roberto.santana@ehu.es)       
+
+
+
+%https://es.mathworks.com/matlabcentral/fileexchange/13562-structure-learning-package-for-bayes-net-toolbox
+%https://www.cs.ubc.ca/~schmidtm/Software/UGM.html
+%https://miat.inrae.fr/GMtoolbox/documentation.html
+% https://github.com/probml/pmtk3
+
+path_mateda =  '~/Dropbox/Colaborations/Mateda3';
+path_FullBNT = '~/Dropbox/Colaborations/Mateda3/bnt';
+path_BNT_SLP = '~/Dropbox/Colaborations/Mateda3/BNT_SLP';
+
+%path_mateda =  'C:\WorkDirectory\Mateda2.2';
+%path_FullBNT = 'C:\WorkDirectory\FullBNT-1.0.4';
+%path_BNT_SLP = 'C:\WorkDirectory\FullBNT-1.0.4\BNT_StructureLearning_v1[1].4c\BNT_SLP';
+
+
+
+%   cd(path_FullBNT);
+%   addpath(genpathKPM(pwd));
+%   cd(path_BNT_SLP);
+%   add_SLP;   
+
+
+P = genpath(path_mateda);
+addpath(P);
+cd(path_mateda);
+
+
+
+% Last version 12/04/2020. Roberto Santana (roberto.santana@ehu.eus) 

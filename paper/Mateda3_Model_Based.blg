@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Mateda3_Model_Based.aux
+The style file: abbrv.bst
+Database file #1: ../../../NewThesis/Thesbib.bib
+Warning--can't use both volume and number fields in Ciresan_et_al:2011
+Warning--can't use both author and editor fields in Lima_et_al:2009
+You've used 191 entries,
+            2118 wiz_defined-function locations,
+            1700 strings with 43872 characters,
+and the built_in function-call counts, 77998 in all, are:
+= -- 8053
+> -- 3350
+< -- 114
++ -- 1301
+- -- 1086
+* -- 5295
+:= -- 12126
+add.period$ -- 666
+call.type$ -- 191
+change.case$ -- 1062
+chr.to.int$ -- 0
+cite$ -- 193
+duplicate$ -- 3232
+empty$ -- 6167
+format.name$ -- 1086
+if$ -- 17179
+int.to.chr$ -- 0
+int.to.str$ -- 191
+missing$ -- 188
+newline$ -- 966
+num.names$ -- 430
+pop$ -- 1179
+preamble$ -- 1
+purify$ -- 882
+quote$ -- 0
+skip$ -- 2425
+stack$ -- 0
+substring$ -- 5449
+swap$ -- 1107
+text.length$ -- 114
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 746
+warning$ -- 2
+while$ -- 783
+width$ -- 194
+write$ -- 2240
+(There were 2 warnings)
